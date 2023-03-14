@@ -5,7 +5,7 @@ What makes the citizens of one country more happy than the citizens of other cou
 ## 2. Covid x ray classification
 ### Description
 Predict whether a person contracted Covid, Pneumonia or neither given their x-rays images of lungs
-#### Data
+### Data
 The data contains x-rays images for 3616 people diagnosed with Covid, 1345 people diagnosed with pneumonia, and 10192 normal people without Covid or Pneumonia
 
 With such a model, it potentially helps:
